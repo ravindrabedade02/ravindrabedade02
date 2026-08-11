@@ -4,7 +4,7 @@
 <!-- Profile Header -->
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Ravindra%20Bedade&fontSize=72&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Frontend%20Developer%20%7C%20AI%20%26%2338%3B%20Data%20Science%20Student&descAlignY=55&descSize=20"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Ravindra%20Bedade&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Frontend%20Developer%20%7C%20AI%20%26%2338%3B%20Data%20Science%20Student&descAlignY=55&descSize=20"/>
 
 </div>
 
@@ -136,21 +136,19 @@ Hi 👋, I'm **Ravindra Bedade**
 
 <!-- ===================== GITHUB STATS ===================== -->
 
+<!-- ===================== GITHUB ANALYTICS ===================== -->
+
 # 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.shion.dev/api?username=ravindrabedade02&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false"/>
+<img src="https://github-readme-stats.shion.dev/api?username=ravindrabedade02&theme=github_dark&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" width="48%"/>
 
-<img height="180" src="https://github-readme-stats.shion.dev/api/top-langs/?username=ravindrabedade02&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=ravindrabedade02&theme=github_dark&hide_border=true&layout=compact" width="40%"/>
 
-</div>
+<br><br>
 
-<br>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com/?user=ravindrabedade02&theme=github_dark&hide_border=false"/>
+<img src="https://github-readme-streak-stats-eight.vercel.app/?user=ravindrabedade02&theme=github-dark&hide_border=true" width="500"/>
 
 </div>
 
@@ -170,16 +168,20 @@ Hi 👋, I'm **Ravindra Bedade**
 
 <!-- ===================== PROJECTS ===================== -->
 
+
 # 🚀 Featured Projects
+<br>
 
 <div align="center">
 
-<a href="https://github.com/ravindrabedade02">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=ravindrabedade02&repo=amazon-prime-video&theme=github_dark&hide_border=true"/>
+<a href="https://github.com/ravindrabedade02/amazon-prime-video">
+<img src="https://img.shields.io/badge/Amazon%20Prime%20Video-161b22?style=for-the-badge&logo=github&logoColor=white" height="55">
 </a>
 
-<a href="https://github.com/ravindrabedade02">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=ravindrabedade02&repo=IceCream-Parlour&theme=github_dark&hide_border=true"/>
+&nbsp;&nbsp;&nbsp;&nbsp;
+
+<a href="https://github.com/ravindrabedade02/IceCream-Parlour">
+<img src="https://img.shields.io/badge/Ice%20Cream%20Parlour-161b22?style=for-the-badge&logo=github&logoColor=white" height="55">
 </a>
 
 </div>
@@ -203,11 +205,13 @@ Hi 👋, I'm **Ravindra Bedade**
 <!-- ===================== PROFILE VIEWS ===================== -->
 
 # 👀 Profile Views
-
 <div align="center">
+<a href="https://github.com/ravindrabedade02"><img src="https://img.shields.io/badge/GitHub-Ravindra%20Bedade-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile"></a>
 
-<img src="https://komarev.com/ghpvc/?username=ravindrabedade02&icon=0&color=0&style=for-the-badge"/>
-
+<br>
+  
+<a href="https://github.com/ravindrabedade02"><img src="https://komarev.com/ghpvc/?username=ravindrabedade02&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"></a>
+<a href="https://github.com/ravindrabedade02"><img src="https://img.shields.io/github/followers/ravindrabedade02?label=Followers&style=flat&color=0e75b6&logo=github" alt="Followers"></a>
 </div>
 
 <br>
