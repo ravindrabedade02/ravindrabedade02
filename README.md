@@ -54,23 +54,12 @@ Hi 👋, I'm **Ravindra Bedade**
 
 # 🌐 Connect With Me
 
-<div align="center">
-
-<a href="https://instagram.com/ravindraa.bedade02">
-<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
-</a>
-
-<a href="https://linkedin.com/in/ravindra-bedade-228161281">
-<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:bedaderavi03@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/ravindrabedade02">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+<div align="center"> 
+  
+  <a href="https://instagram.com/ravindraa.bedade02"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
+  <a href="https://linkedin.com/in/ravindra-bedade-228161281"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:bedaderavi03@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://github.com/ravindrabedade02"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
 
 </div>
 
