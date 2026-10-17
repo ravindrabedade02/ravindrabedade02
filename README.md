@@ -149,11 +149,13 @@ Hi 👋, I'm **Ravindra Bedade**
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ravindrabedade02&theme=github-dark&hide_border=false&area=true"/>
+<a href="https://github.com/ravindrabedade02">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ravindrabedade02&theme=github-dark&area=true&hide_border=true" alt="GitHub Contribution Activity"/>
+</a>
 
 </div>
 
-<br>
+<br/>
 
 <!-- ===================== PROJECTS ===================== -->
 
@@ -194,16 +196,22 @@ Hi 👋, I'm **Ravindra Bedade**
 <!-- ===================== PROFILE VIEWS ===================== -->
 
 # 👀 Profile Views
-<div align="center">
-<a href="https://github.com/ravindrabedade02"><img src="https://img.shields.io/badge/GitHub-Ravindra%20Bedade-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile"></a>
 
-<br>
-  
-<a href="https://github.com/ravindrabedade02"><img src="https://komarev.com/ghpvc/?username=ravindrabedade02&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"></a>
-<a href="https://github.com/ravindrabedade02"><img src="https://img.shields.io/github/followers/ravindrabedade02?label=Followers&style=flat&color=0e75b6&logo=github" alt="Followers"></a>
+<div align="center">
+
+<a href="https://github.com/ravindrabedade02">
+  <img src="https://img.shields.io/badge/GitHub-Ravindra%20Bedade-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile"/>
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=ravindrabedade02&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views"/>
+
+<img src="https://img.shields.io/github/followers/ravindrabedade02?label=Followers&style=flat-square&color=0e75b6&logo=github" alt="GitHub Followers"/>
+
 </div>
 
-<br>
+<br/>
 
 <!-- ===================== QUOTE ===================== -->
 
