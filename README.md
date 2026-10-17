@@ -145,22 +145,20 @@ Hi 👋, I'm **Ravindra Bedade**
 
 <!-- ===================== CONTRIBUTION GRAPH ===================== -->
 
-
 # 📈 Contribution Activity
 
 <div align="center">
 
-<a href="https://github.com/ravindrabedade02">
-  <img
-    src="https://ghchart.rshah.org/36BCF7/ravindrabedade02"
-    alt="Ravindra's GitHub Contribution Calendar"
-    width="100%"
-  />
-</a>
+<img
+  src="https://ghchart.rshah.org/2ea043/ravindrabedade02"
+  alt="GitHub Contribution Activity"
+  width="100%"
+/>
 
 </div>
 
 <br/>
+
 
 
 <!-- ===================== PROJECTS ===================== -->
@@ -201,20 +199,21 @@ Hi 👋, I'm **Ravindra Bedade**
 
 <!-- ===================== PROFILE VIEWS ===================== -->
 
+
 # 👀 Profile Views
 
 <div align="center">
 
+<img src="https://komarev.com/ghpvc/?username=ravindrabedade02&label=Profile%20Views&color=2ea043&style=flat" alt="Profile Views"/>
 
 <a href="https://github.com/ravindrabedade02">
-  <img
-    src="https://img.shields.io/github/followers/ravindrabedade02?label=Followers&style=flat-square"
-    alt="GitHub Followers"
-  />
+  <img src="https://img.shields.io/badge/Followers-View%20on%20GitHub-2ea043?style=flat&logo=github&logoColor=white" alt="GitHub Followers"/>
 </a>
 
+</div>
 
 <br/>
+
 
 <!-- ===================== QUOTE ===================== -->
 
