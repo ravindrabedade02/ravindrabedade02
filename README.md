@@ -149,7 +149,11 @@ Hi 👋, I'm **Ravindra Bedade**
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ravindrabedade02&theme=github-dark&hide_border=false&area=true"/>
+<img
+  src="https://ghchart.rshah.org/2ea043/ravindrabedade02"
+  alt="GitHub Contribution Calendar"
+  width="100%"
+/>
 
 </div>
 
