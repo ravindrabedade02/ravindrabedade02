@@ -143,24 +143,7 @@ Hi 👋, I'm **Ravindra Bedade**
 
 <br>
 
-<!-- ===================== CONTRIBUTION GRAPH ===================== -->
-
-# 📈 Contribution Activity
-
-<div align="center">
-
-<img
-  src="https://ghchart.rshah.org/2ea043/ravindrabedade02"
-  alt="GitHub Contribution Calendar"
-  width="100%"
-/>
-
-</div>
-
-<br>
-
 <!-- ===================== PROJECTS ===================== -->
-
 
 # 🚀 Featured Projects
 <br>
