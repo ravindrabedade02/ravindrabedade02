@@ -147,24 +147,15 @@ Hi 👋, I'm **Ravindra Bedade**
 <br>
 
 <div align="center">
+<p>
+  <a href="https://github.com/ravindrabedade02/My-Portfolio"><img src="https://img.shields.io/badge/My%20Portfolio-161b22?style=for-the-badge&logo=github&logoColor=white" height="55"></a>  &nbsp;&nbsp;
+  <a href="https://github.com/ravindrabedade02/amazon-prime-video"><img src="https://img.shields.io/badge/Amazon%20Prime%20Video-161b22?style=for-the-badge&logo=github&logoColor=white" height="55"></a>
+</p>
 
-<a href="https://github.com/ravindrabedade02/My-Portfolio">
-<img src="https://img.shields.io/badge/Amazon%20Prime%20Video-161b22?style=for-the-badge&logo=github&logoColor=white" height="55">
-</a>
-
-<a href="https://github.com/ravindrabedade02/amazon-prime-video">
-<img src="https://img.shields.io/badge/Amazon%20Prime%20Video-161b22?style=for-the-badge&logo=github&logoColor=white" height="55">
-</a>
-
-&nbsp;&nbsp;&nbsp;&nbsp;
-
-<a href="https://github.com/ravindrabedade02/IceCream-Parlour">
-<img src="https://img.shields.io/badge/Ice%20Cream%20Parlour-161b22?style=for-the-badge&logo=github&logoColor=white" height="55">
-</a>
-
-<a href="https://github.com/ravindrabedade02/My-Ecomm-Mart">
-<img src="https://img.shields.io/badge/Ice%20Cream%20Parlour-161b22?style=for-the-badge&logo=github&logoColor=white" height="55">
-</a>
+<p>
+  <a href="https://github.com/ravindrabedade02/IceCream-Parlour"><img src="https://img.shields.io/badge/Ice%20Cream%20Parlour-161b22?style=for-the-badge&logo=github&logoColor=white" height="55"></a>  &nbsp;&nbsp;
+  <a href="https://github.com/ravindrabedade02/My-Ecomm-Mart"><img src="https://img.shields.io/badge/My%20Ecomm%20Mart-161b22?style=for-the-badge&logo=github&logoColor=white" height="55"></a>
+</p>
 
 </div>
 
