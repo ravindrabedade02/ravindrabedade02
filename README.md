@@ -150,7 +150,7 @@ Hi 👋, I'm **Ravindra Bedade**
 
 <div align="center">
 
-<a href="https://github.com/ravindrabedade02/amazon-prime-video">
+<a href="https://github.com/ravindrabedade02/My-Portfolio">
 <img src="https://img.shields.io/badge/Amazon%20Prime%20Video-161b22?style=for-the-badge&logo=github&logoColor=white" height="55">
 </a>
 
@@ -164,7 +164,7 @@ Hi 👋, I'm **Ravindra Bedade**
 <img src="https://img.shields.io/badge/Ice%20Cream%20Parlour-161b22?style=for-the-badge&logo=github&logoColor=white" height="55">
 </a>
 
-<a href="https://github.com/ravindrabedade02/IceCream-Parlour">
+<a href="https://github.com/ravindrabedade02/My-Ecomm-Mart">
 <img src="https://img.shields.io/badge/Ice%20Cream%20Parlour-161b22?style=for-the-badge&logo=github&logoColor=white" height="55">
 </a>
 
