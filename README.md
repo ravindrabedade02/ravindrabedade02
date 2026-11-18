@@ -35,7 +35,7 @@ Hi 👋, I'm **Ravindra Bedade**
 ### 🚀 What I'm Currently Doing
 
 * 💻 Enhancing my **Frontend Development** skills
-* 🌐 Building **dynamic, responsive and user-friendly web applications**
+* 🌐 Building **Dynamic, Responsive and user-friendly web applications**
 * 🐍 Learning **Python**
 * 🧠 Practicing **Data Structures & Algorithms**
 * ⚡ Learning **C++**
